@@ -1,4 +1,4 @@
-% src/classifica_caracteres.m
+﻿% src/classifica_caracteres.m
 function rotulos = classifica_caracteres(caracteres)
 
     % 1) Defina seus símbolos e parâmetros
